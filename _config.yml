@@ -2,12 +2,13 @@ name: filiapolis
 favicon: null
 layout_spectrum: 0.33523849747143686
 typography_spectrum: 0.8756843607407063
+title: 'FILIAPOLIS: practical philosophy'
 cta:
   domain: null
   bucket: null
   version: null
 analytics:
-  google: null
+  google: UA-50765416-1
   facebook: null
   twitter: null
 opengraph:
