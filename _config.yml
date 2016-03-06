@@ -1,7 +1,7 @@
-name: filiapolis
+name: Filiapolis
 favicon: null
-layout_spectrum: 0.33523849747143686
-typography_spectrum: 0.8756843607407063
+layout_spectrum: 0.32489
+typography_spectrum: 0.57247
 title: 'FILIAPOLIS: practical philosophy'
 cta:
   domain: null
@@ -17,12 +17,12 @@ opengraph:
   appId: null
 color:
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
-  brandStrength: 0.23671833262778819
+    - '#ffb76a'
+    - '#f57c00'
+    - '#ffe4bd'
+    - '#ffcd93'
+    - '#f99e4c'
+  brandStrength: 0.75
   lightness: 0.6385905467905104
   saturation: 0.8442276893183589
   rhythmicContrast: 0.6653326712548733
