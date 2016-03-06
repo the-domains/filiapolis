@@ -1,0 +1,28 @@
+name: filiapolis
+favicon: null
+layout_spectrum: 0.33523849747143686
+typography_spectrum: 0.8756843607407063
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.23671833262778819
+  lightness: 0.6385905467905104
+  saturation: 0.8442276893183589
+  rhythmicContrast: 0.6653326712548733
+purpose: []
