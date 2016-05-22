@@ -6,8 +6,8 @@ isBasedOnUrl: 'https://soundcloud.com/filiapolis/philosophy-as-it-should-be-0001
 inLanguage: null
 keywords: []
 description: "Hi everyone Nicolas here, and as you've just heard, in this podcast we're gonna talk philosophy. But not the tasteless and annoying kind, which we all knew all too well back in school, but rather the interesting and useful kind. Well at least this is the goal I set for myself here."
-datePublished: '2016-05-22T12:42:25.410Z'
-dateModified: '2016-05-22T12:28:21.274Z'
+datePublished: '2016-05-22T13:49:37.524Z'
+dateModified: '2016-05-22T13:49:35.253Z'
 author:
   - name: FILIAPOLIS
     url: 'http://soundcloud.com/filiapolis'
@@ -51,6 +51,7 @@ app_links:
     namespace: google
     type: ios
 title: Philosophy as it should be 0001EP by FILIAPOLIS
+sourcePath: _posts/2016-05-22-philosophy-as-it-should-be-0001ep-by-filiapolis.md
 authors: []
 publisher:
   name: SoundCloud
@@ -58,7 +59,6 @@ publisher:
   url: 'http://soundcloud.com'
   favicon: 'https://a-v2.sndcdn.com/assets/images/sc-icons/favicon-2cadd14b.ico'
 starred: false
-sourcePath: _posts/2016-05-22-philosophy-as-it-should-be-0001ep-by-filiapolis.md
 _type: AudioObject
 _context: 'http://schema.org'
 
