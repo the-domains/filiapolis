@@ -2,16 +2,16 @@
     <channel>
         <title><![CDATA[FILIAPOLIS: practical philosophy]]></title>
         <description><![CDATA[FILIAPOLIS: practical philosophy]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/filiapolis/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 22 May 2016 12:42:26 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Sun, 22 May 2016 13:49:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/filiapolis/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Philosophy as it should be 0001EP by FILIAPOLIS]]></title>
             <description><![CDATA[<article><h1>Philosophy as it should be 0001EP by FILIAPOLIS</h1><p>Hi everyone Nicolas here, and as you've just heard, in this podcast we're gonna talk philosophy. But not the tasteless and annoying kind, which we all knew all too well back in school, but rather the interesting and useful kind. Well at least this is the goal I set for myself here.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7ecc9303d95f9d796a715b2c4f455356788411b7.png"></article>]]></description>
             <link>https://soundcloud.com/filiapolis/philosophy-as-it-should-be-0001ep</link>
             <guid isPermaLink="false">bf92c45b-7bd4-49af-b917-0c4326bf9c6d</guid>
-            <pubDate>Sun, 22 May 2016 12:42:25 GMT</pubDate>
+            <pubDate>Sun, 22 May 2016 13:49:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
